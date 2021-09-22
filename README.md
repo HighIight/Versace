@@ -1,2 +1,1 @@
-# Versace
-Versace is a functional and easy to use Discord Token Fucker
+```Requirements: Have two fingers of forehead```
